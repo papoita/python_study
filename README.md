@@ -13,6 +13,8 @@ Un ejercicio de aprendizaje de Python en comunidad!
 
 - https://ellibrodepython.com/
 
+- https://python-intermedio.readthedocs.io/es/latest/
+
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python
 
 
@@ -25,6 +27,9 @@ Un ejercicio de aprendizaje de Python en comunidad!
 
 - https://platzi.com/cursos/flask/
 - https://platzi.com/cursos/poo-python/
+- https://platzi.com/cursos/python-practico/
+
+- https://www.linkedin.com/learning/building-restful-apis-with-flask/restful-apis-with-python-3-and-flask-4?autoplay=true&u=2171690
 
 ## rutas de plataformas
 - https://www.linkedin.com/learning/paths/become-a-python-developer-8969630?u=2171690
